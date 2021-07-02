@@ -1,0 +1,26 @@
+.img2 {
+width:800px;
+height:500px;    
+}
+.img-responsive {
+width:900px;
+height:600px;    
+}
+#Intro {
+width:1500px;
+height:900px;
+}
+#home {
+align-items:center;     
+}
+.menu1 {
+float:left;
+list-style:none;
+color:white;
+position:fixed;    
+background:black;
+width:100%;
+margin-top:0px;
+top:0px;
+z-index:10;    
+}
